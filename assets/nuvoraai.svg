@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="594" height="237" viewBox="0 0 594 237" role="img" aria-label="NuvoraAI featured project">
+<defs><linearGradient id="p" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#0D162A"/><stop offset="1" stop-color="#17203A"/></linearGradient><linearGradient id="a"><stop stop-color="#8D7AFF"/><stop offset="1" stop-color="#42CBE9"/></linearGradient></defs>
+<rect width="594" height="237" rx="18" fill="url(#p)"/><rect x="1" y="1" width="592" height="235" rx="17" stroke="#687CA8" stroke-opacity=".4" fill="none"/>
+<circle cx="517" cy="119" r="101" fill="#8D7AFF" fill-opacity=".09"/><circle cx="517" cy="119" r="73" fill="none" stroke="#8D7AFF" stroke-opacity=".28" stroke-width="1"/>
+<circle cx="517" cy="119" r="52" fill="#8D7AFF" fill-opacity=".14" stroke="#42CBE9" stroke-opacity=".35"/>
+<text x="517" y="134" font-size="46" text-anchor="middle" font-weight="700" fill="url(#a)" font-family="Inter,Segoe UI,Arial,sans-serif">&lt;/&gt;</text>
+<rect x="28" y="25" width="5" height="27" rx="2.5" fill="url(#a)"/>
+<text x="45" y="47" font-size="28" font-weight="750" fill="#F0F3FF" font-family="Inter,Segoe UI,Arial,sans-serif">NuvoraAI</text>
+<text x="34" y="82" font-size="16.5" font-weight="600" fill="#42CBE9" font-family="Inter,Segoe UI,Arial,sans-serif">AI &amp; SaaS Website Template</text>
+<text x="36" y="162" font-size="17" fill="#B7C2DA" font-family="Inter,Segoe UI,Arial,sans-serif">A polished Next.js template for AI products,</text><text x="36" y="186" font-size="17" fill="#B7C2DA" font-family="Inter,Segoe UI,Arial,sans-serif">SaaS startups and agent platforms.</text>
+<rect x="30" y="208" width="132" height="22" rx="11" fill="#8D7AFF" fill-opacity=".13" stroke="#8D7AFF" stroke-opacity=".4"/>
+<text x="96" y="223" text-anchor="middle" fill="#42CBE9" font-size="11" font-weight="700" letter-spacing="1" font-family="Inter,Segoe UI,Arial,sans-serif">LIVE PREVIEW</text>
+</svg>

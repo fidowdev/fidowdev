@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="116" viewBox="0 0 1280 116" role="img" aria-label="Dev Fidow: built with purpose, shipped with care">
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#11182E"/><stop offset=".5" stop-color="#171D3A"/><stop offset="1" stop-color="#0F2036"/></linearGradient><linearGradient id="line"><stop stop-color="#9A7EFE"/><stop offset="1" stop-color="#3CD5EF"/></linearGradient></defs>
+<rect width="1280" height="116" rx="18" fill="url(#bg)"/><path d="M20 2 H1260" stroke="url(#line)" stroke-width="3"/>
+<text x="640" y="51" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#ECEEFF" text-anchor="middle">Built with purpose. Shipped with care.</text>
+<text x="640" y="83" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" fill="#AEBBDB" text-anchor="middle">DEV FIDOW  /  FIDOW.DEV</text>
+</svg>

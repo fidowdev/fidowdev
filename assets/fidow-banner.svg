@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="390" viewBox="0 0 1280 390" role="img" aria-label="Dev Fidow — Full-Stack Software Engineer">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#080F21"/><stop offset="0.54" stop-color="#0C1230"/><stop offset="1" stop-color="#10152D"/></linearGradient>
+ <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#BDB3FF"/><stop offset="0.5" stop-color="#8C7CFF"/><stop offset="1" stop-color="#57CFFF"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#927FFF" stop-opacity=".9"/><stop offset="1" stop-color="#20DBFF" stop-opacity=".6"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#7B65F8" stop-opacity=".28"/><stop offset="1" stop-color="#7B65F8" stop-opacity="0"/></radialGradient>
+ <pattern id="mesh" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0 H0 V40" stroke="#9DAAFF" stroke-opacity=".075" fill="none"/></pattern>
+ <filter id="shadow"><feDropShadow dx="0" dy="14" stdDeviation="16" flood-color="#000" flood-opacity=".24"/></filter>
+ <clipPath id="clip"><rect x="0" y="0" width="1280" height="390" rx="26"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+ <rect width="1280" height="390" fill="url(#bg)"/><rect width="1280" height="390" fill="url(#mesh)"/>
+ <circle cx="485" cy="60" r="330" fill="url(#glow)"/><circle cx="1100" cy="360" r="360" fill="url(#glow)"/>
+ <path d="M0 0 H1280" stroke="#B7ACFF" stroke-width="3" stroke-opacity=".75"/>
+ <path d="M0 389 H1280" stroke="url(#line)" stroke-width="3"/>
+ <g fill="none" stroke="#6277C5" stroke-opacity=".17"><circle cx="1260" cy="25" r="210"/><circle cx="1260" cy="25" r="280"/><circle cx="1260" cy="25" r="350"/></g>
+ <g transform="translate(62 47)">
+  <rect x="0" y="0" width="42" height="42" rx="13" fill="#8F80FF" fill-opacity=".17" stroke="#A99DFF" stroke-opacity=".55"/>
+  <path d="m15 14-7 7 7 7 M27 14l7 7-7 7 M24 11l-6 20" stroke="#C9C0FF" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="56" y="28" fill="#F2F2FF" font-size="21" font-weight="700" font-family="Inter,Segoe UI,Arial,sans-serif" letter-spacing=".5">FIDOW DEV</text>
+  <rect x="201" y="7" width="200" height="28" rx="14" fill="#152947" stroke="#3C8B9F" stroke-opacity=".75"/>
+  <circle cx="218" cy="21" r="4" fill="#40DBB4"/>
+  <text x="231" y="26" font-size="12.5" font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="600" fill="#9DE9DC">BUILDING FOR THE WEB</text>
+ </g>
+ <g transform="translate(64 132)">
+  <text x="0" y="0" fill="#B9C3DF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="500" letter-spacing="2">HELLO, I'M</text>
+  <text x="-3" y="81" fill="url(#violet)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="81" letter-spacing="-4" font-weight="800">dev fidow</text>
+  <text x="0" y="121" fill="#F1F4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24" font-weight="650">Full-Stack Software Engineer</text>
+  <text x="0" y="161" fill="#AAB8D5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17.5">Designing thoughtful experiences. Engineering reliable systems.</text>
+ </g>
+ <g transform="translate(60 335)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13.5" font-weight="650">
+  <rect width="136" height="31" rx="15" fill="#A88CFF" fill-opacity=".12" stroke="#9884F4" stroke-opacity=".52"/><text x="16" y="21" fill="#D6CBFF">NEXT.JS · REACT</text>
+  <rect x="148" width="151" height="31" rx="15" fill="#38C6E5" fill-opacity=".10" stroke="#45C6DF" stroke-opacity=".48"/><text x="164" y="21" fill="#A2E7F5">NODE.JS · APIs</text>
+  <rect x="311" width="137" height="31" rx="15" fill="#9EA5CE" fill-opacity=".08" stroke="#7386B2" stroke-opacity=".45"/><text x="329" y="21" fill="#CED8EC">NAIROBI, KENYA</text>
+ </g>
+ <g transform="translate(785 91)" filter="url(#shadow)">
+  <rect width="433" height="251" rx="18" fill="#10182D" fill-opacity=".97" stroke="#6675AE" stroke-opacity=".46"/>
+  <rect width="433" height="43" rx="18" fill="#1D2841"/><rect x="0" y="22" width="433" height="21" fill="#1D2841"/>
+  <circle cx="22" cy="21.5" r="5" fill="#FA6D84"/><circle cx="40" cy="21.5" r="5" fill="#F0C66E"/><circle cx="58" cy="21.5" r="5" fill="#67DDB9"/>
+  <text x="146" y="26" fill="#9FABCF" font-family="monospace" font-size="12">fidow / profile.ts</text>
+  <g font-family="Consolas,Monaco,monospace" font-size="17">
+   <text x="30" y="83"><tspan fill="#C4B5FF">const</tspan><tspan fill="#E6EDFF"> developer = {</tspan></text>
+   <text x="52" y="116"><tspan fill="#9ADCF4">name</tspan><tspan fill="#B4BFDB">: </tspan><tspan fill="#B5E9D5">"Dev Fidow"</tspan><tspan fill="#B4BFDB">,</tspan></text>
+   <text x="52" y="148"><tspan fill="#9ADCF4">craft</tspan><tspan fill="#B4BFDB">: </tspan><tspan fill="#B5E9D5">"Full-Stack"</tspan><tspan fill="#B4BFDB">,</tspan></text>
+   <text x="52" y="180"><tspan fill="#9ADCF4">focus</tspan><tspan fill="#B4BFDB">: </tspan><tspan fill="#B5E9D5">"Real products"</tspan><tspan fill="#B4BFDB">,</tspan></text>
+   <text x="52" y="212"><tspan fill="#9ADCF4">mindset</tspan><tspan fill="#B4BFDB">: </tspan><tspan fill="#B5E9D5">"Keep shipping"</tspan></text>
+   <text x="30" y="238" fill="#E6EDFF">};<tspan fill="#66E2DD"> ▍</tspan></text>
+  </g>
+ </g>
+</g>
+</svg>
